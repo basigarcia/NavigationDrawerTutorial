@@ -11,7 +11,7 @@
         android:textColor="#fff"
         android:background="@color/colorPrimary"
         android:textSize="28sp"
-        android:id="@+id/textView"
+        android:id="@+id/main_button"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
